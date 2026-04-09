@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>Flow Updates</title>
+        <title>Remark Updates</title>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.7.0</title>
-            <pubDate>Thu, 09 Apr 2026 17:43:59 +0000</pubDate>
-            <sparkle:version>0.7.0</sparkle:version>
-            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <title>Version 0.8.0</title>
+            <pubDate>Thu, 09 Apr 2026 17:55:51 +0000</pubDate>
+            <sparkle:version>0.8.0</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/M11029/flow-updates/releases/download/v0.7.0/Flow.dmg"
-                sparkle:edSignature="j+s59JP8cm6mcKOIESII2K9zuNWqS2CC+6sqFYzAUG+ZLoSULcRWsb12vJvjpCX8a2wOaQB9EtXfqvus8I9YDg=="
-                length="4539304"
+                url="https://github.com/M11029/flow-updates/releases/download/v0.8.0/Remark.dmg"
+                sparkle:edSignature="YwkD/GhaqaEgwmuOuh7MYYkMpQOBhuWgDxJYe7emKBLI9MGRgSH33+i3aA5MOab8guraS+sFRGjzMHGjJcOuCA=="
+                length="4538294"
                 type="application/octet-stream"
-                sparkle:version="0.7.0"
-                sparkle:shortVersionString="0.7.0" />
+                sparkle:version="0.8.0"
+                sparkle:shortVersionString="0.8.0" />
         </item>
     </channel>
 </rss>
