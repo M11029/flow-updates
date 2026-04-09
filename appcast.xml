@@ -5,32 +5,18 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.3.0</title>
-            <pubDate>Thu, 09 Apr 2026 14:24:40 +0000</pubDate>
-            <sparkle:version>0.3.0</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <title>Version 0.4.0</title>
+            <pubDate>Thu, 09 Apr 2026 14:44:42 +0000</pubDate>
+            <sparkle:version>0.4.0</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/M11029/flow-updates/releases/download/v0.3.0/Flow.dmg"
-                sparkle:edSignature="/dhcMFkjnZbG8VOLNcQen4Dl8IYt79wDhX6PgB5dFsexIC1oVbcrH7EUIJK8QN779GsbHwijWE4dZXeamdXRDQ=="
-                length="4350394"
+                url="https://github.com/M11029/flow-updates/releases/download/v0.4.0/Flow.dmg"
+                sparkle:edSignature="uuJVZkPEK7K3sRbp2PTBIn+bAdN9i1SRKn1oZS8oNER4AV6Fk5iAUgEMs6JmZIHYHePoUguhzrsJe7iIZgVmAQ=="
+                length="4318049"
                 type="application/octet-stream"
-                sparkle:version="0.3.0"
-                sparkle:shortVersionString="0.3.0" />
-        </item>
-        <item>
-            <title>Version 0.2.0</title>
-            <pubDate>Wed, 09 Apr 2026 13:58:00 +0000</pubDate>
-            <sparkle:version>0.2.0</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/M11029/flow-updates/releases/download/v0.2.0/Flow.dmg"
-                sparkle:edSignature="Gn3esIkm/xzORWc/3KaySj6A241BdTH8M7ePP552UOhv4rslJmds5caEHO3JXg5FrVE7WDWgUsRcn1KJ+s5tCg=="
-                length="4347923"
-                type="application/octet-stream"
-                sparkle:version="0.2.0"
-                sparkle:shortVersionString="0.2.0" />
+                sparkle:version="0.4.0"
+                sparkle:shortVersionString="0.4.0" />
         </item>
     </channel>
 </rss>
