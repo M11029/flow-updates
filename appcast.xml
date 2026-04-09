@@ -11,7 +11,7 @@
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/M11029/remark/releases/download/v0.2.0/Flow.dmg"
+                url="https://github.com/M11029/flow-updates/releases/download/v0.2.0/Flow.dmg"
                 sparkle:edSignature="Gn3esIkm/xzORWc/3KaySj6A241BdTH8M7ePP552UOhv4rslJmds5caEHO3JXg5FrVE7WDWgUsRcn1KJ+s5tCg=="
                 length="4347923"
                 type="application/octet-stream"
