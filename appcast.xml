@@ -6,14 +6,14 @@
         <language>en</language>
         <item>
             <title>Version 0.5.0</title>
-            <pubDate>Thu, 09 Apr 2026 15:50:48 +0000</pubDate>
+            <pubDate>Thu, 09 Apr 2026 15:54:51 +0000</pubDate>
             <sparkle:version>0.5.0</sparkle:version>
             <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/M11029/flow-updates/releases/download/v0.5.0/Flow.dmg"
-                sparkle:edSignature="2O8Up3uEdq5wM6lGVW5dSFH5WbJT8yOG2TXPe2YFIOuDViLO2OS/yFSZidnq4n2FouG4+sA9iaOn/CZdjnbKAQ=="
-                length="4329984"
+                sparkle:edSignature="dXPwECFG5/xRzS48rmLJqNSVZfnGalEy1fwqJQ8DOdOgWgcU0sv09MaPrZvLeH+K/KIO0dAw/HvE/RZIgr37DQ=="
+                length="4330482"
                 type="application/octet-stream"
                 sparkle:version="0.5.0"
                 sparkle:shortVersionString="0.5.0" />
