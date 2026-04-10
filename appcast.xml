@@ -2,20 +2,21 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Remark Updates</title>
-        <link>https://raw.githubusercontent.com/M11029/flow-updates/main/appcast.xml</link>
-        <description>Remark update feed</description>
+        <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.9.0</title>
-            <pubDate>Fri, 10 Apr 2026 12:33:14 +0000</pubDate>
-            <sparkle:version>0.9.0</sparkle:version>
-            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <title>Version 1.0.0</title>
+            <pubDate>Fri, 10 Apr 2026 22:13:50 +0000</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/M11029/flow-updates/releases/download/v0.9.0/Remark.dmg"
-                sparkle:edSignature="WFv3/RIHGaSnaV/i4FbuX+ggKbXNFdryOd7UjcnVYlKvI5hQLQJgnKEFSt7Gxt4TmrF2oDDybxQyeMeY31KHBQ=="
-                length="4607302"
-                type="application/octet-stream" />
+                url="https://github.com/M11029/flow-updates/releases/download/v1.0.0/Remark.dmg"
+                sparkle:edSignature="V9RltUNJyVFzqV5CT0CrT8cegUjne0HnnIj8wsSS1WnNLf/JjBG4cGGR7xeiaDhmwrMRumY/gBDHr7E+XWClAg=="
+                length="4529757"
+                type="application/octet-stream"
+                sparkle:version="1.0.0"
+                sparkle:shortVersionString="1.0.0" />
         </item>
     </channel>
 </rss>
