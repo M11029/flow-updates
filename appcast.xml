@@ -5,6 +5,32 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 1.1.0</title>
+            <description><![CDATA[
+                <h2>Visual Overhaul</h2>
+                <ul>
+                    <li>Warm cream background throughout — no more default white</li>
+                    <li>Serif headings (New York font) for editorial, premium feel</li>
+                    <li>Navy accent replaces all default blue</li>
+                    <li>Bordered cards with no shadows</li>
+                    <li>In-app permission request cards with privacy explanations</li>
+                    <li>Education banners for feature discovery</li>
+                    <li>Rebuilt sidebar with custom styling</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 11 Apr 2026 00:30:00 +0000</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/M11029/flow-updates/releases/download/v1.1.0/Remark.dmg"
+                sparkle:edSignature="yyspUJ7Ao46FeSZMh7+4/pjcSjvEo5wFzsm3tIy3k5Ba2asazDZEpymq+vMXLNA0lbadrJgvKpQAs7fE5QVEBA=="
+                length="4610278"
+                type="application/octet-stream"
+                sparkle:version="1.1.0"
+                sparkle:shortVersionString="1.1.0" />
+        </item>
+        <item>
             <title>Version 1.0.0</title>
             <pubDate>Fri, 10 Apr 2026 22:13:50 +0000</pubDate>
             <sparkle:version>1.0.0</sparkle:version>
