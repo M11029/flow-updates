@@ -5,18 +5,18 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.0</title>
-            <pubDate>Sun, 12 Apr 2026 08:51:19 +0000</pubDate>
-            <sparkle:version>1.4.0</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <title>Version 1.5.0</title>
+            <pubDate>Sun, 12 Apr 2026 09:56:41 +0000</pubDate>
+            <sparkle:version>1.5.0</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/M11029/flow-updates/releases/download/v1.4.0/Remark.dmg"
-                sparkle:edSignature="cpnrst0PUL0D2Eyerj7WqZDPVjEtzEM+kMxgS6k97d1/m32hZUJJO6Av/J2NaV3IeEZ6YG6E23B21AehRMbIDw=="
-                length="4646360"
+                url="https://github.com/M11029/flow-updates/releases/download/v1.5.0/Remark.dmg"
+                sparkle:edSignature="TGwbx2KqTI87HX6M9jbcJjR+tOFhsFPhL2kHdElmRXdNmIR8ygFeOIR+LHq7vhAgyZw+lgmVRBnWmnWfkz/PBw=="
+                length="4660604"
                 type="application/octet-stream"
-                sparkle:version="1.4.0"
-                sparkle:shortVersionString="1.4.0" />
+                sparkle:version="1.5.0"
+                sparkle:shortVersionString="1.5.0" />
         </item>
     </channel>
 </rss>
