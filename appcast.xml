@@ -5,6 +5,20 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 1.8.0</title>
+            <pubDate>Sun, 13 Apr 2026 21:00:00 +0000</pubDate>
+            <sparkle:version>1.8.0</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/M11029/flow-updates/releases/download/v1.8.0/Remark.dmg"
+                sparkle:edSignature="YvXWfei2LLFTL92i7rCJ6v3WEcVtf8Pfxzn0yQWta2BSCJAs1yBDKUs5WNSv2RUaNSG0hJ7W3wOTnn/7ipG9Aw=="
+                length="4746473"
+                type="application/octet-stream"
+                sparkle:version="1.8.0"
+                sparkle:shortVersionString="1.8.0" />
+        </item>
+        <item>
             <title>Version 1.7.2</title>
             <pubDate>Sun, 13 Apr 2026 10:00:00 +0000</pubDate>
             <sparkle:version>1.7.2</sparkle:version>
