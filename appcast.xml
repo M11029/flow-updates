@@ -12,8 +12,8 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/M11029/flow-updates/releases/download/v1.8.0/Remark.dmg"
-                sparkle:edSignature="YvXWfei2LLFTL92i7rCJ6v3WEcVtf8Pfxzn0yQWta2BSCJAs1yBDKUs5WNSv2RUaNSG0hJ7W3wOTnn/7ipG9Aw=="
-                length="4746473"
+                sparkle:edSignature="qEEhg/UJ97V3zxL0a5AaIXMVfH7RuyYA3vzY5psZlOnnh/H5JPsRa3IrIfTtq8rzKII6JSDWDD1fYQlnuogEDA=="
+                length="4746543"
                 type="application/octet-stream"
                 sparkle:version="1.8.0"
                 sparkle:shortVersionString="1.8.0" />
