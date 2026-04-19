@@ -5,46 +5,18 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.8.0</title>
-            <pubDate>Sun, 13 Apr 2026 21:00:00 +0000</pubDate>
-            <sparkle:version>1.8.0</sparkle:version>
-            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <title>Version 2.0.0</title>
+            <pubDate>Sun, 19 Apr 2026 11:34:26 +0000</pubDate>
+            <sparkle:version>2.0.0</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/M11029/flow-updates/releases/download/v1.8.0/Remark.dmg"
-                sparkle:edSignature="qEEhg/UJ97V3zxL0a5AaIXMVfH7RuyYA3vzY5psZlOnnh/H5JPsRa3IrIfTtq8rzKII6JSDWDD1fYQlnuogEDA=="
-                length="4746543"
+                url="https://github.com/M11029/flow-updates/releases/download/v2.0.0/Remark.dmg"
+                sparkle:edSignature="nlugmjxpuYcqJuorcCOZsZlZl1tj9DVoxZBbbbkbmbXx5KEG4UwUuHTF3agoWaRgX8Hc+hFaEy4xNWPjakiOCg=="
+                length="4836506"
                 type="application/octet-stream"
-                sparkle:version="1.8.0"
-                sparkle:shortVersionString="1.8.0" />
-        </item>
-        <item>
-            <title>Version 1.7.2</title>
-            <pubDate>Sun, 13 Apr 2026 10:00:00 +0000</pubDate>
-            <sparkle:version>1.7.2</sparkle:version>
-            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/M11029/flow-updates/releases/download/v1.7.2/Remark.dmg"
-                sparkle:edSignature="3gTTgTEpQsz5DAgEgih5XvkoGpuiof749fV2Mq/h8Lt649h66A99fcvQx5tYycWcY8Zjk8daCllpIJuZvd2yAA=="
-                length="4707164"
-                type="application/octet-stream"
-                sparkle:version="1.7.2"
-                sparkle:shortVersionString="1.7.2" />
-        </item>
-        <item>
-            <title>Version 1.7.1</title>
-            <pubDate>Sun, 12 Apr 2026 21:04:46 +0000</pubDate>
-            <sparkle:version>1.7.1</sparkle:version>
-            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/M11029/flow-updates/releases/download/v1.7.1/Remark.dmg"
-                sparkle:edSignature="ItkNc/CjM97pi5fx34Ow8hEiEcce1vD3Hf5gYZGRfSzqh75qAqp1WN1bNbK3ZvvLTwVkgSgNgqYofF0tMUhyCQ=="
-                length="4698705"
-                type="application/octet-stream"
-                sparkle:version="1.7.1"
-                sparkle:shortVersionString="1.7.1" />
+                sparkle:version="2.0.0"
+                sparkle:shortVersionString="2.0.0" />
         </item>
     </channel>
 </rss>
